@@ -1,0 +1,2 @@
+this is 1st line added in the git text file. now ,we can see the of the local repository. so,we can use "git fetch" for change then for update to use 
+"git pull".
